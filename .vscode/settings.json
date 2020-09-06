@@ -1,0 +1,12 @@
+{
+    "Lua.diagnostics.globals": [
+        "Tasks",
+        "Options",
+        "peripheral",
+        "colors",
+        "term",
+        "write",
+        "fs",
+        "keys"
+    ]
+}
